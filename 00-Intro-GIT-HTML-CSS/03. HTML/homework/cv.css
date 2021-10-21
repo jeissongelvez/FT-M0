@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+   }
+ img{
+     width: auto;
+     height: auto;
+ 
+ }
+.thirdDiv {
+height: 6px;
+width: 50px;
+background-color: red;
+padding: 50px;
+border: 5px solid orange;
+}
+#spanId{
+    
+    font-size: 18px;
+    margin: 50px;}
+    .fancy {
+       width: 500px;
+       background-color: coral;
+       margin: 20px auto;
+       padding: 50px;
+       border: solid wheat 4px;
+    } .centrado{text-align:center;border:1px dotted #000; padding:8px;}
+    div{width:50%;border:1px dotted #f00;padding:8px;margin:auto;}
+    center{margin:16px 0;}
