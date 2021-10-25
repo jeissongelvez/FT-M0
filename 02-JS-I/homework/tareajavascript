@@ -1,0 +1,17 @@
+-Variables :
+º se resume como "var" y se le da el valor opciolnal y se define su valor para que se pueda aplicar.
+
+-Strings O cadena :
+º representa y manipula caracteres, se usan para almacenar datos en forma de texto, un strin pueden ser palabras.
+
+-Funciones : palabra clave Funcion
+º son bloques de construccion de js. es un procedimiento, un conjunto de intrucciones que realiza una tarea o calcula un valor
+pero parea que este procedimiento sea una Funcion debe tomar 1 entrada y devolver una salida.
+
+-Declaraciones if : (también denominada declaración de función o expresión de función)
+-Valores booleanos (true, false) :
+ º un valor booleano representa una verdad: true o false, una expresión booleana puede prtoducir un valor desconocido " (unknown)" nulo.
+  cuando un valor de tipo de datos se convierte en boolean si no es el numero (CERO) es true
+  cuando un valor de tipo de datos se convierte en boolean si es el numero (CERO) es false
+  
+  
