@@ -1,4 +1,4 @@
--Variables :
+Variables 
 º se resume como "var" y se le da el valor opciolnal y se define su valor para que se pueda aplicar.
 
 -Strings O cadena :
@@ -13,5 +13,3 @@ pero parea que este procedimiento sea una Funcion debe tomar 1 entrada y devolve
  º un valor booleano representa una verdad: true o false, una expresión booleana puede prtoducir un valor desconocido " (unknown)" nulo.
   cuando un valor de tipo de datos se convierte en boolean si no es el numero (CERO) es true
   cuando un valor de tipo de datos se convierte en boolean si es el numero (CERO) es false
-  
-  
