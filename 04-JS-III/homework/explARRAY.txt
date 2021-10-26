@@ -1,0 +1,1 @@
+el array es una forma de hacer arreglos
